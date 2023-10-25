@@ -9,7 +9,7 @@ Fecha: 26/10/23
 Duarte Vázquez Kevin Alexis. </h1>
 
 <h2> Resultado:</h2>
-<img src="Resultado.jpg">
+<img src="Resultado.png">
 
 
 
